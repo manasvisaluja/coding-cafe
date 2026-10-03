@@ -1,0 +1,16 @@
+  161  cd ~/coding-cafe
+  162  python2 -m venv .venv
+  163  python3 -m venv .venv
+  164  ls
+  165  ls -a
+  166  source .venv/bin/activate
+  167  pip list
+  168  pip install requests
+  169  pip list
+  170  deactivate
+  171  which python3
+  172  man ls
+  173  man man
+  174  cd cod
+  175  history
+  176  python3
